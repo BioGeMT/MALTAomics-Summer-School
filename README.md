@@ -36,11 +36,11 @@ _15:30 – 16:00:	Coffee Break_
 
 10:00 – 13:00:	Workshop IV: Introduction to eXplainable Artificial Intelligence (XAI) (L. Sousa, D. Cea)
 
-13:00 – 14:00:	Lunch Break
+_13:00 – 14:00:	Lunch Break_
 
 14:00 – 15:30:	Workshop V: Explainability for Deep Neural Networks (K. Gresova)
 
-15:30 – 16:00:	Coffee Break
+_15:30 – 16:00:	Coffee Break_
 
 16:00 – 17:00:	Workshop V: Explainability for Deep Neural Networks (K. Gresova) cont.
 
