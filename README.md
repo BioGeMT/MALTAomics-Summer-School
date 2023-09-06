@@ -16,7 +16,7 @@ _13:00 – 14:00:	Lunch Break_
 
 _14:45 – 15:00:	Coffee Break_
 
-16:00 – 17:00: 	Workshop II - Browsing genes and genomes with Ensembl (A. Mushtaq) cont.
+15:00 – 17:00: 	Workshop II - Browsing genes and genomes with Ensembl (A. Mushtaq) cont.
 
 ### Day 2 - Tue Sep 12
 09:00 – 09:45:	Introduction to Genomic Data (P. Alexiou)
