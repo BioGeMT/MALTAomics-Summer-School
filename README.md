@@ -21,7 +21,7 @@ _14:45 – 15:00:	Coffee Break_
 15:00 – 17:00: 	Workshop II - Browsing genes and genomes with Ensembl (A. Mushtaq) cont.
 
 ### Day 2 - Tue Sep 12
-09:00 – 09:45:	Introduction to Genomic Data (P. Alexiou)
+09:00 – 09:45:	Introduction to Genomic Data Science (P. Alexiou)
 
 10:00 – 13:00:	Workshop III – Introduction to Deep Learning for Genomics (D. Cechak, V. Martinek)
 
@@ -34,7 +34,7 @@ _15:30 – 16:00:	Coffee Break_
 16:00 – 17:00:	Looking for hairpins in a genomic junkyard, CNNs for genomic annotation (P. Alexiou)
 
 ### Day 3 - Wed Sep 13
-09:00 – 09:45:	Introduction to Transcriptomics (P. Alexiou)
+09:00 – 09:45:	Introduction to Transcriptomic Data Science (P. Alexiou)
 
 10:00 – 13:00:	Workshop IV: Introduction to eXplainable Artificial Intelligence (XAI) (L. Sousa, D. Cea)
 
