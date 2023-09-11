@@ -12,6 +12,8 @@ This repository will be shared with all attendees and presenters.
 
 10:00 – 13:00:	Workshop I - Browsing genes and genomes with Ensembl (A. Mushtaq)
 
+[Website with training material](https://training.ensembl.org/events/2023/2023-09-11-Malta_browser)
+
 _13:00 – 14:00:	Lunch Break_
 
 14:00 – 14:45:	Workshop II - Browsing genes and genomes with Ensembl (A. Mushtaq)
