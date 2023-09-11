@@ -6,6 +6,8 @@ This repository will be shared with all attendees and presenters.
 
 [Zoom Link for online attendance](https://universityofmalta.zoom.us/j/95986469331?pwd=SWJmKzYxNWJDc0NTM2dGQlhGRzFoZz09)
 
+[Feedback Form](https://forms.gle/UHuM4GmvSxD651Hq6)
+
 ## Programme
 ### Day 1 - Mon Sep 11
 09:00 – 09:45:	Registration and Welcome from Organizers (P. Alexiou)
