@@ -30,6 +30,7 @@ The learning objectives are:
   + [Tutorial_SHAP_intro](https://github.com/BioGeMT/MALTAomics-Summer-School/blob/main/Day3_WorkshopIV_ExplainableAI/xai-model-agnostic/Tutorial_SHAP.ipynb)
   + [Tutorial_FGC](https://github.com/BioGeMT/MALTAomics-Summer-School/blob/main/Day3_WorkshopIV_ExplainableAI/xai-model-specific/Tutorial_FGC.ipynb)
   + [Tutorial_XAI_for_RanfomForest](https://github.com/BioGeMT/MALTAomics-Summer-School/blob/main/Day3_WorkshopIV_ExplainableAI/xai-model-specific/Tutorial_XAI_for_RandomForests.ipynb)
+* [Omics Use-Case for FGC](https://genome.cshlp.org/content/29/7/1087)
 
 ## Requirements and Setup
 
