@@ -13,23 +13,34 @@ These slides and practicals will cover Day 4 (Thu Sep 14th 2023, 09:00-13:00) of
 |11:40 – 13:00|Introduction to Random Forests for Virtual Screening|[Slides (PDF)](slides/Day4_IntroductionToRandomForests_DrJPEbejer.pdf)          |
 
 
-## Particals
+## Practicals
 
 All code supplied for these sessions are provided as Jupyter Notebooks.  These may be run either locally (on your laptop or desktop) or, experimentally, on Google Colab.
+
+### Data
+
+All data used in these tutorials are provided in the [data](code/data/) directory. If running via Google Colab, you will have to upload these when prompted from the notebook.
 
 ### Google Colab
 
 The following notebooks should open in Google Colab by using the below link provided. Note that each of these notebooks sets up its own environment (this takes a while, please have patience).
 
-+ Practical 1 ‒ Molecular Representation (Open in Colab)
-+ Practical 2 ‒ Using a Random Forest for Virtual Screening
-+ Practical 3 ‒ Running a Ligand Based Virtual Screening Experiment using Fingerprints
-+ Practical 4 ‒ Seperating actives and decoys using a PCA
-
-<a target="_blank" href="https://colab.research.google.com/github/BioGeMT/MALTAomics-Summer-School/blob/main/Day4_WorkshopVI_MachineLearningForDrugDiscovery/code/colab/practical1-cadd_molecular_representation_colab.ipynb">
++ Practical 1 ‒ Molecular Representation (<a target="_blank" href="https://colab.research.google.com/github/BioGeMT/MALTAomics-Summer-School/blob/main/Day4_WorkshopVI_MachineLearningForDrugDiscovery/code/colab/practical1-cadd_molecular_representation_colab.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a>)
++ Practical 2 ‒ Using a Random Forest for Virtual Screening (<a target="_blank" href="https://colab.research.google.com/github/BioGeMT/MALTAomics-Summer-School/blob/main/Day4_WorkshopVI_MachineLearningForDrugDiscovery/code/colab/practical2-cadd_ml_rf_model_colab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>)
++ Practical 3 ‒ Running a Ligand Based Virtual Screening Experiment using Fingerprints (<a target="_blank" href="https://colab.research.google.com/github/BioGeMT/MALTAomics-Summer-School/blob/main/Day4_WorkshopVI_MachineLearningForDrugDiscovery/code/colab/practical3-cadd_lbvs_fingerprints_colab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>)
++ Practical 4 ‒ Seperating actives and decoys using a PCA (<a target="_blank" href="https://colab.research.google.com/github/BioGeMT/MALTAomics-Summer-School/blob/main/Day4_WorkshopVI_MachineLearningForDrugDiscovery/code/colab/practical4-cadd_pca_colab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>)
 
+### Running the Jupyter Notebooks Locally
+
+You may want to run
 
 
 
