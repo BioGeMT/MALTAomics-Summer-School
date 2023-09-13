@@ -26,6 +26,10 @@ The following notebooks should open in Google Colab by using the below link prov
 + Practical 3 ‒ Running a Ligand Based Virtual Screening Experiment using Fingerprints
 + Practical 4 ‒ Seperating actives and decoys using a PCA
 
+<a target="_blank" href="https://colab.research.google.com/github/BioGeMT/MALTAomics-Summer-School/blob/main/Day4_WorkshopVI_MachineLearningForDrugDiscovery/code/colab/practical1-cadd_molecular_representation_colab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 
 
