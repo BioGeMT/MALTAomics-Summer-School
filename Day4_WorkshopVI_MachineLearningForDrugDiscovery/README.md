@@ -40,8 +40,14 @@ The following notebooks should open in Google Colab by using the below link prov
 
 ### Running the Jupyter Notebooks Locally
 
-You may want to run
+You may want to run the notebooks locally on your laptop. This is probably the way to go if you want to dig deeper and have a play around with the code. The way to install and run these notebooks locally is via the conda environment manager.
 
+Follow these instructions:
+
+1. Using the conda environment file [maltaomics_env.yml](code/data/maltaomics_env.yml) install this environment as described [here](https://www.bitsilla.com/wiki/doku.php?id=howto:create_python_environment_for_study_unit_xxx).
+2. Clone this git repository (so you have all notebooks found in [code](code/) available locally).
+3. Make sure to activate the conda environment, i.e. `conda activate maltaomics`
+4. Run `jupyter notebook` in the directory where the notebooks are located and you should be able to run these locally.
 
 
 
